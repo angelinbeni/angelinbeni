@@ -1,4 +1,4 @@
-- 👋 Hi, I’m angelinbeni
+- 👋 Hi, I’m angelbeni
 - 👀 I’m interested in soft computing and deep learning
 - 🌱 I’m currently learning Matlab and Python
 
